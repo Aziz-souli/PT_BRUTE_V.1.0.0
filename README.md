@@ -8,7 +8,7 @@ You can install **PT_BRUTE** using `pip` from TestPyPI or your local setup:
 
 ### From TestPyPI (if uploaded):
 ```bash
-pip install -i https://test.pypi.org/simple/ PT_BRUTE
+pip install -i https://test.pypi.org/simple/ PATH-TRAVERSAL-BRUTEFORCING
 ```
 
 ### From Source
