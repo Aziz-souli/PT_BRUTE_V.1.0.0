@@ -14,9 +14,19 @@ pip install -i https://test.pypi.org/simple/ PATH-TRAVERSAL-BRUTEFORCING
 ### From Source
 Clone the repository and install the package locally:
 ```bash
+# Clone the repository
 git clone https://github.com/Aziz-souli/PT_BRUTE_V.1.0.0.git
+
+# Navigate into the repository directory
 cd PT_BRUTE_V.1.0.0
+
+# (Optional) Set up a virtual environment
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+# Install the package locally
 pip install .
+
 ```
 
 ### Verify Installation
