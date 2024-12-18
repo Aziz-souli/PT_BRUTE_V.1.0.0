@@ -20,7 +20,7 @@ git clone https://github.com/Aziz-souli/PT_BRUTE_V.1.0.0.git
 # Navigate into the repository directory
 cd PT_BRUTE_V.1.0.0
 
-# (Optional) Set up a virtual environment
+# (Optional) Set up a virtual environment or you can use directly myenv 
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 
