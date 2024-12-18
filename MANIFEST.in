@@ -1,0 +1,6 @@
+include *.txt
+recursive-include myenv *.12
+recursive-include myenv *.cfg
+recursive-include myenv *.csh
+recursive-include myenv *.fish
+recursive-include myenv *.ps1

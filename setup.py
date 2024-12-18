@@ -6,7 +6,7 @@ setup(
     description="A command-line tool to Path Traversal Bruteforcing.",
     author="Aziz Souli",
     author_email="aziz.souli@enicar.ucar.tn",
-    url="https://github.com/Aziz-souli/PATH_TRAVERSAL_BRUTEFORCING_TOOL_V1",  # Optional GitHub link
+    url="https://github.com/Aziz-souli/PT_BRUTE_V.1.0.0",  # Optional GitHub link
     packages=find_packages(),  # Automatically find `my_tool` package
     entry_points={
         "console_scripts": [
